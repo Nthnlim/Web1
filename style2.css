@@ -1,8 +1,21 @@
 h2{
-    color: #ff0000;
+    color: #ff0000;/* #ff0000 for red, #00ff00 for green, #0000ff for blue */
+    text-align: center;
+    text-decoration: line-through;
 }
-/* 
-#ff0000 for red
-#00ff00 for green
-#0000ff for blue
-*/
+
+h1{
+    text-align: right;
+    text-decoration: overline;
+    text-decoration-color: green;
+    text-shadow: 5px 5px 5px black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 64px;    
+    font-style: italic;
+}
+p{
+    text-decoration: underline red double 5px;
+    text-transform: uppercase ;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
