@@ -22,7 +22,7 @@
 #content {
     float: right;
     background-color: lightblue;
-    padding: 10px;
+    padding: 20px;
     width: 75%;
 }
 
@@ -32,4 +32,13 @@
     padding: 20px;
     text-transform: uppercase;
     clear: both;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+img {
+    float: right;
+    border-radius: 20px;
 }
