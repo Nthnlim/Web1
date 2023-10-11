@@ -42,3 +42,18 @@ img {
     float: right;
     border-radius: 20px;
 }
+ul {
+    list-style-type: none;
+    background-color: #f1f1f1;
+ }
+
+li {
+    display: block;
+    padding: 8px 16px;
+    color: #000;
+}
+
+li:hover {
+    background-color: rebeccapurple;
+    color: white;
+}
