@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #cdcdcd;
+    font-weight: bolder;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+nav {
+    background-color: #343434;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+nav ul:hover {
+    color: yellow;
+    font-weight: bolder;
+}
