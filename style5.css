@@ -57,3 +57,7 @@ li:hover {
     background-color: rebeccapurple;
     color: white;
 }
+
+h3 {
+    text-shadow: 2px  blue;
+}
