@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo {
+    width: 30%;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+
+.nav1 {
+    color: white;
+    background-color: #51134f;
+    padding-top: 20px;;
+    padding-bottom: 20px;
+}
+
+nav ul {
+    font-weight: bolder;
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+    list-style-type: none;
+}
+
+
+.nav1 ul li:hover {
+    color: rgb(216, 156, 3);
+}
+
+.nav1 ul:visited {
+    color: rgb(216, 156, 3);
+}
+
+.nav2 {
+    background-color: rgb(198, 199, 205);
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.oppo {
+    color: white;
+    background-color: green;
+    padding: 5px 5px 5px 5px;
+}
+/*______________________________*/
+
+div img {
+    margin-top: 30px;
+    padding: 0px 200px;
+}
+
+div h1 {
+    color: #5e115b;
+    padding: 20px 200px;
+    
+}
+
+div h6 {
+    padding: 10px 510px;
+}
+
+div p {
+    padding-left: 200px;
+    font-size: large;
+}
+
+.bacajuga {
+    margin: 20px 0px 10px 200px;
+}
+
+.isibaca {
+    margin: 30px 0px 20px 0px;
+    color: #51134f;
+    font-weight: bolder;
+}
+
+
+/* #x13 {
+    font-weight: bolder;
+    text-transform: lowercase;
+    margin: 0px 0px 15px 200px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dedede;
+    color: black;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+#x14 {
+    font-weight: bolder;
+    text-transform: lowercase;
+    margin: 0px 0px 15px 200px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dedede;
+    color: black;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+#snapdragon {
+    font-weight: bolder;
+    text-transform: lowercase;
+    margin: 0px 0px 15px 200px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dedede;
+    color: black;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+#xiaomi {
+    font-weight: bolder;
+    text-transform: lowercase;
+    margin: 0px 0px 15px 200px;
+    padding: 5px 5px 5px 5px;
+    background-color: #dedede;
+    color: black;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+} */
+
+.asd {
+    font-weight: bolder;
+    text-transform: lowercase;
+    margin: 25px 0px 20px 2px;
+    padding: 5px 5px 5px 5px;
+    margin-left: 200px;
+    background-color: #dedede;
+    color: black;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.asd + .asd {
+    margin-left: 5px;
+}
+
+div h2 {
+    color: #51134f;
+    margin-left: 200px; 
+    margin-top: 10px; 
+    margin-bottom: 20px;
+}
+
+div table {
+    font-weight: bolder;
+    font-size: larger;
+    margin-left: 200px;
+}
+
+div td {
+    text-transform: capitalize;
+}
+
+#table2 {
+    padding-left: 50px;
+    padding-top: 10px
+}
+
+main {
+    margin-bottom: 100px;
+}
+
+div td:hover {
+    color: #51134f;
+}
+
+div li {
+    padding-left: 200px;
+}
+
+.footer {
+    background-color: #dedede;
+    border-top: 8px solid #ab15a6;
+}
+
+.logofooter {
+    width: 20%;
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-bottom: 0px;    
+}
+
+.detiknetwork {
+    width: 33%;
+    margin-left: 70px;
+    margin-bottom: 100px;
+}
+
+
+.mia1 {
+    width: 5%;
+    display: flexbox;
+    justify-content: center;
+    margin-left: 150px;
+}
+.mia2 {
+    width: 5%;
+    display: flexbox;
+    justify-content: center;
+    
+}
+.mia3 {
+    width: 3%;
+    display: flexbox;
+    justify-content: center;
+    margin-top: 0px;
+}
+.mia4 {
+    width: 5%;
+    display: flexbox;
+    justify-content: center;
+    
+}
+.mia5 {
+    width: 5%;
+    display: flexbox;
+    justify-content: center;    
+}
+
+.copyright {
+    margin-left: 190px;
+    margin-top: 70px;
+}
+
+
+
+
+#footer-container ul {
+    list-style-type: none;
+    justify-content: flex-start;
+    display: inline-block;
+    background-color: #dedede;
+}
+
+
