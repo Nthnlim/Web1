@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Javascript 3 Object</title>
+</head>
+<body>
+    <h1>Learn Javascript 3 </h1>
+
+    
+    <p id="name">Name:</p>
+    <p id="NIM">NIM:</p>
+    <p id="major">major:</p>
+    <p id="religion">religion:</p>
+    <p id="address">address:</p>
+
+
+
+    <script>
+        //Create object name student that have these properties:
+        //Name, NIM, major, religion, address
+        //Fill this with your personal information
+
+        let person = {
+            firstName: " Nathan",
+            lastName: " Lim",
+            NIM:  2282012,
+            major: " Information System",
+            religion: " Advent",
+            address: " UNAI"
+        };
+
+        document.getElementById("name").innerHTML = "Name: " + person.firstName + person.lastName;
+        document.getElementById("NIM").innerHTML = "NIM: " + person.NIM;
+        document.getElementById("major").innerHTML ="Major: " + person.major
+        document.getElementById("religion").innerHTML ="Religion: " + person.religion;
+        document.getElementById("address").innerHTML = "Address: " + person.address;
+    </script>
+    
+ 
+
+
+
+
+
+
+
+</body>
+</html>
